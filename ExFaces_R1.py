@@ -5,7 +5,11 @@ Created on Mon Sep 15 13:35:02 2025
 Authors: Pedro Pérez-Aros, David Torregrosa-Belén
 
 Code associated to the paper:  Randomized block proximal method with locally
-Lipschitz continuous gradient
+Lipschitz continuous 
+
+IMPORTANT:
+This code requires the Database of Faces from the AT&T Laboratories Cambridge.
+Go to: https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
 """
 
 
