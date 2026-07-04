@@ -8,10 +8,6 @@ Code associated with the paper:
 
 # Organization of the folder:
 
--  "ExNMF_adaptive_R1.py" contains the code with the experiment that generates Tables 2, 3 and 4 in the paper.
--  "ExNMF_color_R1.py" contains the code of the experiment for generating Table 5 in the paper.
--  "ExFaces_R1.py" cointains the code of the experiment for generating Figure 4 in the paper. 
--  "ExFaces_R1.py" cointains the code of the experiment for generating Figure 5 in the paper. 
--  The folder "Algorithms" contains the script with the ccode for the algorithms considered in the paper.
--  Auxiliary scripts for displaying the results of the experiments are in the folder "Auxiliaries".
--  The pictures used for the experiment in the paper are in the folder "Data".
+-  "ExCompression.py" contains the code for the experiment in Section 5.2.1 of the paper.
+-  "ExSwimmer.py" contains the code for the experiment in Section 5.2.2 of the paper.
+-  "ExSymNMF.py" cointains the code for the experiment in Section 5.3 of the paper. 
